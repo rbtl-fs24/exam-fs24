@@ -14,7 +14,7 @@ editor_options:
 
 # Points
 
-The maximum number of points for this section is: **12 out of 52**. The number of points for each task is shown in parenthesis next to the task number.
+The maximum number of points for this section is: **9 out of 53**. The number of points for each task is shown in parenthesis next to the task number.
 
 # Task 3.0 (0.5)
 
@@ -36,7 +36,7 @@ treatment <- read_csv("data/what-a-waste/waste-treatment.csv")
 
 ```
 
-# Task 3.2 (1.5)
+# Task 3.2 (2)
 
 The `treatment` data does not follow tidy data principles. It is in a wide format rather than in a long format and shows different types of waste treatment in different columns, which could be one column with the type of treatment and another column with the value of the treatment.
 
@@ -50,7 +50,7 @@ The `treatment` data does not follow tidy data principles. It is in a wide forma
 
 ```
 
-# Task 3.1 (0.5)
+# Task 3.1 (1)
 
 1.  Starting with the `treatment_long` data object, use functions taught during the course to answer the following question:
 

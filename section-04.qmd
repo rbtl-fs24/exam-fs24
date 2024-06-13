@@ -14,7 +14,7 @@ editor_options:
 
 # Points
 
-The maximum number of points for this section is: **13 out of 52**. The number of points for each task is shown in parenthesis next to the task number.
+The maximum number of points for this section is: **13 out of 53**. The number of points for each task is shown in parenthesis next to the task number.
 
 # Task 4.0 (0.5)
 
