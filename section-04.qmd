@@ -1,0 +1,67 @@
+---
+title: "rbtl-fs24 end-of-semester exam"
+subtitle: "Section 04"
+format:
+  html:
+    embed-resources: true
+editor: visual
+execute: 
+  echo: true
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+# Points
+
+The maximum number of points for this section is: **13 out of 52**. The number of points for each task is shown in parenthesis next to the task number.
+
+# Task 4.0 (0.5)
+
+1.  Render the document and fix any errors.
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+
+treatment_mean <- read_csv("data/what-a-waste/treatment-mean.csv")
+```
+
+# Task 4.1 (3)
+
+Starting with the `treatment_mean` data object, use functions taught during the course to complete the following task:
+
+1.  Reproduce the table that you see as an image below when you render the report and view the output in your Viewer tab in the bottom right window.
+
+```{r}
+
+
+```
+
+![](img/tbl-01-treatment-by-income-mean.png)
+
+# Task 4.2 (9)
+
+1.  Starting with the `treatment_mean` data object, use functions taught during the course to complete the following task:
+
+Reproduce the plot that you see as an image below when you render the report and view the output in your Viewer tab in the bottom right window.
+
+**Hints:**
+
+-   The color palette is for qualitative data types and is called "Paired". It is originally derived from from https://colorbrewer2.org/
+
+-   Wondering about the order of the 4 individual plots? Remember how we create factors?
+
+```{r}
+
+```
+
+![](img/fig-01-treatment-by-income-mean.png)
+
+# Task 4.3 - Hand-in (0.5)
+
+1.  Render the document and fix any errors.
+
+Last complete render: `r Sys.time()` at timezone `r Sys.timezone()`.

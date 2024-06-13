@@ -1,0 +1,6 @@
+file_name, variable_name, description
+waste-generation.csv, country, Country name
+waste-generation.csv, city, City name
+waste-generation.csv, income_id, Income group ID
+waste-generation.csv, waste_generation, Waste generation in tons per year
+waste-generation.csv, population, Population

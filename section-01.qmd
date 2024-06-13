@@ -1,0 +1,101 @@
+---
+title: "rbtl-fs24 end-of-semester exam"
+subtitle: "Section 01"
+format:
+  html:
+    embed-resources: true
+editor: visual
+execute: 
+  echo: true
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+# Points
+
+The maximum number of points for this section is: **12 out of 52**. The number of points for each task is shown in parenthesis next to the task number.
+
+# Task 2.0 (0.5)
+
+1.  Render the document and fix any errors.
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+generation <- read_csv("data/what-a-waste/waste-generation.csv")
+dictionary <- read_csv("data/what-a-waste/dictionary.csv")
+```
+
+# Task 2.1 (1)
+
+1.  Explore the dictionary data object to learn more about the data.
+
+```{r}
+
+```
+
+# Task 2.2 (1)
+
+1.  Use the `filter()` function to remove all NAs from the `generation` data object.
+
+2.  Store the result as a new object in your environment with the name `generation_complete`.
+
+```{r}
+
+```
+
+# Task 2.3 (2)
+
+1.  Use the `mutate()` function to add a new column to `generation_complete` that is the municipal solid waste generation per person in kg/day. Name the column `waste_generation_person_kg_day`.
+
+2.  Use the pipe operator to add another line of code which uses the `relocate()` function to move the `waste_generation_person_kg_day` after the `city` column.
+
+3.  Use the pipe operator to add another line of code which uses the `select()` function to remove the `waste_generation` column.
+
+4.  Store the result as a new object in your environment with the name `generation_person`.
+
+```{r}
+
+```
+
+# Task 2.4 (2)
+
+1.  Starting with `generation_person`, use a function of the slice family of functions to return the 5 countries with the highest municipal solid waste generation.
+
+2.  Use the pipe operator to add another line of code, then use a function you have learnt in the course to display a formatted version of the returned dataframe from the previous step.
+
+```{r}
+
+```
+
+# Task 2.5 (5)
+
+1.  Use the data stored in `generation_person` to prepare a box- and jitterplot that displays income on the x-axis and municipal solid waste generation per person on the y-axis.
+
+2.  Add a color aesthetic for the income categories.
+
+3.  Set the width of the jitter to a value of 0.2.
+
+4.  Set the transparency for the points in the jitter to a value of 0.75.
+
+5.  Set the size of the points in the jitter to a value of 2.
+
+6.  Do not display the outliers for the boxplot.
+
+7.  Change the color palette to colors of your choice.
+
+8.  Remove the legend from the plot.
+
+```{r}
+
+
+```
+
+# Task 2.6 - Hand-in (0.5)
+
+1.  Render the document and fix any errors.
+
+Last complete render: `r Sys.time()` at timezone `r Sys.timezone()`.

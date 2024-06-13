@@ -1,0 +1,368 @@
+country,city,income_id,advanced_thermal_treatment,anaerobic_digestion,compost,controlled_landfill,incineration,landfill_unspecified,open_dump,other,recycling,sanitary_landfill_landfill_gas_system,unaccounted_for,waterways_marine
+Afghanistan,Jalalabad,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Afghanistan,Kandahar,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Afghanistan,Mazar-E-Sharif,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Afghanistan,Kabul,LIC,NA,NA,NA,NA,NA,NA,75,NA,NA,NA,25,NA
+Afghanistan,HiratÂ ,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Angola,Luanda,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Albania,Korca,UMC,NA,NA,NA,100,NA,NA,NA,NA,NA,NA,NA,NA
+Albania,Vlora,UMC,NA,NA,NA,NA,NA,NA,90,NA,10,NA,NA,NA
+United Arab Emirates,Abu Dhabi,HIC,NA,NA,9,NA,NA,9,62,NA,20,NA,NA,NA
+United Arab Emirates,Dubai,HIC,NA,NA,NA,NA,NA,NA,NA,NA,25,75,NA,NA
+Argentina,CÃ³rdoba,HIC,NA,NA,NA,69.32,NA,NA,30,NA,0.68,NA,NA,NA
+Argentina,Rosario,HIC,NA,NA,15.2,NA,NA,NA,NA,NA,NA,89.19,NA,NA
+Argentina,Ciudada AutÃ³noma De Buenos Aires (Caba).,HIC,NA,NA,NA,NA,NA,NA,NA,14.42,7.2,61.5,16.88,NA
+Armenia,Vanadzor,UMC,NA,NA,NA,NA,NA,NA,90,NA,NA,NA,10,NA
+Armenia,Spitak,UMC,NA,NA,NA,NA,NA,NA,93.16,NA,NA,NA,6.84,NA
+American Samoa,Pago Pago,UMC,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Australia,Perth,HIC,NA,NA,NA,NA,NA,NA,NA,NA,18,NA,NA,NA
+Australia,Melbourne,HIC,NA,NA,NA,74.19,NA,NA,NA,NA,25.81,NA,NA,NA
+Australia,Canberra,HIC,NA,NA,NA,28,NA,NA,NA,NA,70,NA,2,NA
+Austria,Vienna,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Azerbaijan,Baku,UMC,NA,NA,NA,NA,24.21,NA,NA,NA,NA,36.36,49.22,NA
+Burundi,Muyinga,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Burundi,Kayanza,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Burundi,Ngozi,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Burundi,Bujumbura,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Belgium,Brussels,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Belgium,Liege,HIC,NA,3,14,NA,26,NA,NA,NA,53,4,NA,NA
+Benin,Porto Novo,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Benin,Cotonou,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,Bobo Dioulasso,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Burkina Faso,Ouagadougou,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bangladesh,Patuakhali,LMC,NA,NA,NA,NA,NA,NA,55.45,NA,4.55,NA,40,NA
+Bangladesh,Chittagong,LMC,NA,NA,0.42,NA,NA,NA,29.17,NA,12.41,NA,58,NA
+Bangladesh,Rangpur,LMC,NA,NA,NA,NA,NA,NA,27.16,NA,4.84,NA,68,NA
+Bangladesh,Dhaka,LMC,NA,NA,NA,NA,NA,NA,43.5,43,13.5,NA,NA,NA
+Bangladesh,Rajshahi,LMC,NA,NA,NA,NA,NA,NA,67.29,NA,4.71,NA,28,NA
+Bulgaria,Ruse,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bulgaria,Burgas,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bahrain,Manama,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bosnia and Herzegovina,Banja Luka,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
+Bosnia and Herzegovina,Sarajevo,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Belarus,Minsk,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,97,3,NA
+Belarus,Grodno,UMC,NA,NA,NA,99.4,NA,NA,NA,NA,0.6,NA,NA,NA
+Belize,San Pedro,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,57.6,42.4,NA
+Belize,Belize City,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,65,35,NA
+Bolivia,La Paz,LMC,NA,NA,1,NA,NA,NA,NA,NA,4,89,6,NA
+Brazil,"Distrito Federal, Brasilia",UMC,NA,NA,NA,100,NA,NA,NA,NA,5.94,0,NA,NA
+Brazil,Rio De Janeiro,UMC,NA,NA,NA,6.3,NA,NA,0,NA,0.5,93.2,NA,NA
+Brazil,Sao Paulo,UMC,NA,NA,3,24,NA,NA,18,NA,NA,55,NA,NA
+Bhutan,PhuentsholingÂ ,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
+Bhutan,Thimphu,LMC,NA,NA,8,NA,NA,NA,82,NA,5,NA,5,NA
+Botswana,Gaborone,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Canada,Toronto,HIC,NA,NA,3.74,52.08,NA,NA,NA,NA,47.91,NA,NA,NA
+Canada,Ottawa,HIC,NA,NA,NA,NA,NA,NA,NA,NA,42.5,NA,NA,NA
+Canada,Vancouver,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Switzerland,Bern,HIC,NA,NA,NA,NA,NA,NA,NA,NA,43.22,NA,NA,NA
+Switzerland,Zurich,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chile,Santiago De Chile,HIC,NA,NA,NA,1.2,NA,NA,NA,NA,NA,98.8,NA,NA
+China,Beijing,UMC,NA,NA,2,NA,8,NA,NA,NA,NA,90,NA,NA
+Côte d’Ivoire,Abidjan,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cameroon,Limbe,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cameroon,Douala,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cameroon,Yaounde,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cameroon,Bafoussam,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Congo, Dem. Rep.",Kinshasa,LIC,NA,NA,NA,NA,NA,NA,10,NA,NA,NA,90,NA
+"Congo, Rep.",Dolisie,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Colombia,BogotÃ¡,UMC,NA,NA,NA,NA,NA,NA,NA,NA,17,83,NA,NA
+Colombia,Medellin,UMC,NA,NA,NA,NA,NA,NA,NA,NA,16,84,NA,NA
+Colombia,Cali,UMC,NA,NA,NA,NA,NA,NA,NA,NA,15,85,NA,NA
+Comoros,Moroni,LIC,NA,NA,NA,40,NA,NA,NA,NA,NA,NA,60,NA
+Costa Rica,San JosÃ©,UMC,NA,NA,NA,NA,NA,NA,NA,0.38,5.2,94.42,NA,NA
+Costa Rica,Alajuela,UMC,NA,NA,NA,NA,NA,NA,NA,NA,0.42,100,NA,NA
+Cuba,Havana,UMC,NA,NA,NA,97,NA,NA,NA,3,NA,NA,NA,NA
+Cyprus,Paralimini,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cyprus,Nicosia,HIC,NA,NA,2.87,NA,NA,87.23,NA,NA,9.89,NA,0.01,NA
+Czech Republic,Karlovy Vary,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Czech Republic,Prague,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Hamburg,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Germany,Berlin,HIC,NA,NA,NA,1,65,NA,NA,6,28,NA,NA,NA
+Djibouti,Djiibouti City,LMC,NA,NA,NA,NA,NA,NA,NA,62,NA,NA,NA,NA
+Denmark,Copenhagen,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dominican Republic,Santo Domingo,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,72,28,NA
+Algeria,Algiers,UMC,NA,NA,1,NA,NA,NA,NA,7,10,82,NA,NA
+Algeria,Mostaganem,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ecuador,Quito,UMC,NA,NA,NA,NA,NA,NA,NA,NA,6,89,5,NA
+"Egypt, Arab Rep.",Cairo,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Spain,Pamplona,HIC,NA,NA,NA,68,NA,NA,NA,NA,32,NA,NA,NA
+Spain,Madrid,HIC,NA,10,5,29,10,NA,NA,36,10,NA,NA,NA
+Estonia,Tallinn,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Estonia,Tartummaa,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Adola Woyu,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Bule Hora,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Addis Ababa,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Maichew,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Tepi,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Gerbe Guracha,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Weldiya,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Debre Tabor,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Bati,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Dire Dawa,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Ethiopia,Halaba Kulito,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ethiopia,Dembi Dolo,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Oulu,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.5,92.5,NA
+Finland,Riihimaki,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Finland,Turku,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fiji,Suva,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+France,Angers-Loire Metropole,HIC,NA,NA,22.85,NA,0.23,NA,NA,NA,17.66,53.95,5,NA
+France,Paris,HIC,NA,NA,NA,NA,77.5,NA,NA,NA,17.1,5.4,NA,NA
+"Micronesia, Fed. Sts.",Pohnpei,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gabon,Libreville,UMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+United Kingdom,London,HIC,NA,NA,NA,NA,47,20,NA,4,30,NA,NA,NA
+United Kingdom,Bristol,HIC,25.3,NA,NA,29.67,NA,NA,NA,NA,45.03,NA,NA,NA
+Georgia,Tbilisi,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ghana,Accra,LMC,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,95,NA
+Ghana,Kumasi,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guinea,Conakry,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Gambia, The",Banjul,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Equatorial Guinea,Labe,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Athens,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Greece,Thessaloniki,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guatemala,Guatemala City,UMC,NA,NA,NA,NA,NA,NA,48,47,5,NA,NA,NA
+Guatemala,Antigua Guatemala,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Guatemala,Jutiapa,UMC,NA,NA,NA,NA,NA,NA,12.44,87.56,NA,NA,NA,NA
+Honduras,Tegucigalpa,LMC,NA,NA,0,NA,NA,NA,5,2,3,89,1,NA
+Honduras,San Pedro Sula,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,Zagreb,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Croatia,Cakovec,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Haiti,Port Au Prince,LIC,NA,NA,NA,20,NA,NA,NA,NA,NA,NA,80,NA
+Hungary,Debrecen,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hungary,Budapest,HIC,NA,NA,NA,NA,52,NA,NA,NA,NA,NA,48,NA
+Indonesia,Jakarta,LMC,NA,NA,NA,NA,NA,69.5,NA,NA,7.5,NA,23,NA
+Isle of Man,Douglas,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Kota,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+India,Kozhikode,LMC,NA,NA,25,NA,NA,NA,60,NA,NA,NA,15,NA
+India,Jaipur,LMC,NA,NA,16.8,NA,NA,NA,60,23.6,NA,NA,NA,NA
+India,Tirunelveli,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+India,Amritsar,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+India,Allahabad,LMC,NA,NA,28,NA,NA,NA,65.7,NA,NA,NA,6.3,NA
+India,Greater Hyderabad Â ,LMC,NA,NA,44,10,NA,NA,NA,36,NA,NA,10,NA
+India,Kochi,LMC,NA,NA,40.3,38,NA,NA,NA,NA,21.6,NA,0.1,NA
+India,Leh,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+India,Pune,LMC,NA,10.48,16.84,NA,NA,NA,50,10.89,11.17,NA,0.62,NA
+India,Patna,LMC,NA,NA,NA,NA,NA,NA,15,NA,NA,NA,35,NA
+India,Jodhpur,LMC,NA,NA,24.7,NA,NA,NA,54,NA,NA,NA,21.3,NA
+India,Nagpur,LMC,NA,NA,15,NA,NA,NA,81,NA,NA,NA,NA,NA
+India,Shimla,LMC,NA,NA,NA,NA,NA,NA,NA,16,15,NA,69,NA
+India,Rudrapur,LMC,NA,NA,NA,NA,NA,NA,92,NA,NA,NA,8,NA
+India,Bengaluru,LMC,NA,0.57,14.28,NA,NA,NA,70,NA,NA,NA,15.15,NA
+India,Pimpri-Chinchwad,LMC,NA,NA,60.9,NA,NA,NA,NA,0.2,18.8,20,0.1,NA
+India,Kanpur,LMC,NA,NA,46.66,NA,35,NA,NA,NA,8,NA,10.34,NA
+India,Rajkot,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+India,Tenali,LMC,NA,2.1,1.05,NA,NA,NA,90,NA,3.7,NA,3.15,NA
+India,Lucknow,LMC,NA,NA,23,NA,NA,NA,60,15,NA,NA,2,NA
+India,Ludhiana,LMC,NA,NA,NA,NA,NA,NA,45,55,NA,NA,NA,NA
+India,Tadipatri,LMC,NA,NA,70,NA,NA,NA,30,NA,NA,NA,NA,NA
+India,Bhopal,LMC,NA,0.75,21.1,NA,NA,NA,NA,NA,NA,NA,78.15,NA
+India,Faridabad,LMC,NA,NA,36.7,NA,NA,NA,NA,NA,NA,NA,42.4,NA
+India,Cuttack,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+India,Ahmedabad,LMC,NA,NA,36.4,NA,NA,NA,NA,NA,15,49,NA,NA
+India,Itanagar,LMC,NA,NA,62.5,NA,NA,NA,12,NA,NA,NA,25.5,NA
+India,Vishakhapatnam,LMC,NA,NA,NA,NA,NA,NA,97,NA,NA,NA,3,NA
+India,Nashik,LMC,NA,NA,NA,20,NA,NA,NA,NA,NA,NA,35,NA
+India,Dhanbad,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Delhi,LMC,NA,NA,7.8,NA,31.9,NA,13.3,8.3,15,NA,23.8,NA
+India,Srinagar,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+India,Ghaziabad,LMC,NA,NA,40,NA,NA,NA,60,NA,NA,NA,NA,NA
+India,Imphal,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+India,Surat,LMC,NA,NA,23.5,NA,NA,NA,76,NA,NA,NA,0.5,NA
+India,Vijaywada,LMC,NA,3.5,22,NA,NA,NA,74,NA,NA,NA,0.5,NA
+India,Chennai,LMC,NA,NA,1,99,NA,NA,NA,NA,NA,NA,NA,NA
+India,Indore,LMC,NA,NA,50,NA,NA,NA,25,25,NA,NA,NA,NA
+India,Coimbatore,LMC,NA,0.1,53.4,NA,NA,NA,NA,NA,20,24,0.02,NA
+India,Navi Mumbai,LMC,NA,NA,82,18,NA,NA,NA,NA,NA,NA,NA,NA
+India,Greater Mumbai,LMC,NA,NA,NA,NA,NA,NA,54,45.53,NA,NA,0.47,NA
+India,Guwahati,LMC,NA,NA,8.2,NA,NA,NA,75,NA,NA,NA,16.8,NA
+India,GwaliorÂ ,LMC,NA,NA,39.5,NA,NA,NA,60,NA,NA,NA,0.5,NA
+India,Bhubaneswar,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+India,Mysore,LMC,NA,NA,50,31,NA,NA,NA,NA,22,NA,17,NA
+India,Warangal,LMC,NA,2,3.66,NA,NA,NA,93,NA,1.66,NA,NA,NA
+Ireland,Dublin,HIC,NA,NA,NA,NA,NA,NA,NA,NA,49,NA,51,NA
+"Iran, Islamic Rep.",Tehran,UMC,NA,1.9,50,NA,2.5,NA,41.5,NA,4,NA,0.1,NA
+Iraq,Baghdad,UMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Israel,Jerusalem,HIC,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,95,NA
+Israel,Tel Aviv,HIC,NA,NA,NA,NA,NA,NA,NA,NA,10.6,NA,89.4,NA
+Italy,Parma,HIC,NA,NA,NA,NA,NA,NA,NA,NA,72,NA,28,NA
+Italy,Milano,HIC,NA,NA,NA,NA,44.6,NA,NA,6.8,49.9,NA,NA,NA
+Jordan,Amman,UMC,NA,NA,NA,NA,NA,NA,10,NA,NA,90,NA,NA
+Japan,Yokohama,HIC,NA,NA,NA,10.18,74.95,NA,NA,NA,25.543,NA,NA,NA
+Japan,Kobe,HIC,NA,NA,NA,14.35,83.3,NA,NA,NA,14.89,NA,NA,NA
+Japan,Osaka,HIC,NA,NA,NA,14.19,90.33,NA,NA,NA,9.67,NA,NA,NA
+Japan,Naha,HIC,NA,0,0,3.82,89.09,NA,NA,0,15.01,NA,0,NA
+Japan,Kitakyushu,HIC,NA,NA,NA,11.35,75.93,NA,NA,NA,25.38,NA,NA,NA
+Japan,Toyama,HIC,NA,NA,0.44,7.94,76.16,NA,NA,NA,24.28,NA,NA,NA
+Kazakhstan,Atyrau,UMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Kazakhstan,Kostanay,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,NA
+Kenya,EldoretÂ ,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Kenya,Nairobi,LMC,NA,NA,NA,NA,NA,NA,33,NA,5,NA,62,NA
+Kyrgyz Republic,Osh,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Kyrgyz Republic,Bishkek,LMC,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+Cambodia,Phnom Penh,LMC,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,99.85,NA
+Kiribati,South Tarawa,LMC,NA,NA,NA,NA,NA,26,NA,38,1,NA,NA,35
+"Korea, Rep.",Seoul,HIC,NA,NA,29,NA,8,NA,NA,NA,36,27,NA,NA
+Kuwait,Kuwait City,HIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,0.01,NA
+Lao PDR,Vientiane,LMC,NA,NA,NA,50,NA,NA,NA,NA,10,NA,40,NA
+Lebanon,Beirut,UMC,NA,NA,10,NA,NA,NA,NA,2,5,83,NA,NA
+Lebanon,Saida,UMC,NA,50,10,NA,NA,NA,NA,7,20,NA,NA,13
+Liberia,Monrovia,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Libya,Tripoli,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sri Lanka,Dehiwala Mt. Lavinia Municipal Council,LMC,NA,NA,0.5,NA,NA,NA,92.2,NA,3.4,NA,3.9,NA
+Sri Lanka,Kurunegala,LMC,NA,NA,2.7,NA,NA,NA,80.4,2.7,14.2,NA,NA,NA
+Sri Lanka,Trincomalee,LMC,NA,NA,5.6,NA,NA,NA,61.5,28.7,4.1,NA,0.1,NA
+Sri Lanka,Jaffna,LMC,NA,NA,5.9,NA,NA,NA,70.3,13.6,10.4,NA,0,NA
+Sri Lanka,Moratuwa,LMC,NA,NA,14.2,48.6,NA,NA,NA,12.9,3.1,NA,21.2,NA
+Sri Lanka,Colombo,LMC,NA,NA,0.97,NA,NA,NA,99,NA,NA,NA,0.03,NA
+Lithuania,Vilnius,HIC,NA,NA,NA,64,NA,NA,NA,NA,36,NA,NA,NA
+Lithuania,Kaunas,HIC,NA,NA,NA,87,NA,NA,NA,NA,13,NA,NA,NA
+Latvia,Liepaja,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Latvia,Riga,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Morocco,Rabat,LMC,NA,NA,NA,NA,NA,NA,NA,NA,3,97,NA,NA
+Morocco,Tangier,LMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Morocco,Beni Mellal,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Moldova,Soldanesti,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Moldova,Chisinau,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Madagascar,Antananarivo,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Maldives,Male,UMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Maldives,Addu,UMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Maldives,Fuahmulah,UMC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Mexico,MÃ©xico City,UMC,NA,NA,10.6,66.7,NA,NA,NA,4.2,14.19,1.56,2.75,NA
+Mexico,Guadalajara,UMC,NA,NA,NA,NA,NA,NA,NA,NA,8,92,NA,NA
+Mexico,Monterrey,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,NA,NA
+Marshall Islands,Majuro,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Macedonia, FYR",Kratovo,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Macedonia, FYR",Skopje,UMC,NA,NA,NA,95,NA,NA,2,NA,3,NA,NA,NA
+Mali,Bamako,LIC,NA,NA,NA,NA,NA,NA,NA,NA,21,NA,NA,NA
+Mali,Sikasso,LIC,NA,NA,NA,NA,NA,25,NA,NA,NA,NA,75,NA
+Myanmar,Mandalay,LMC,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA
+Myanmar,Yangon,LMC,NA,NA,NA,NA,NA,NA,87.66,NA,4.33,NA,7.67,NA
+Montenegro,Podgorica,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,69.79,30.21,NA
+Montenegro,Kotor,UMC,NA,NA,NA,59.98,NA,NA,NA,NA,NA,NA,40.02,NA
+Mongolia,Ulaanbaatar,LMC,NA,NA,NA,NA,NA,NA,88.85,NA,3.2,NA,7.95,NA
+Northern Mariana Islands,Saipan,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mozambique,Maputo,LIC,NA,NA,NA,NA,NA,NA,99,NA,1,NA,NA,NA
+Mauritania,Nouakchott,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Malawi,Blantyre,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,70,NA
+Malawi,Lilongwe,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,70,NA
+Malaysia,Kuala Lumpur,UMC,NA,NA,NA,NA,NA,NA,NA,NA,10.4,NA,89.6,NA
+Namibia,Windhoek,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Niger,Niamey,LIC,NA,NA,NA,NA,NA,NA,37.4,52.5,NA,NA,10.1,NA
+Nigeria,Ilorin,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nigeria,Lagos,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nigeria,Kano,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nigeria,Oyo,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nigeria,Ibadan,LMC,NA,NA,NA,NA,NA,NA,44,NA,NA,NA,56,NA
+Nicaragua,Puerto Cabezas,LMC,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,NA
+Nicaragua,Managua,LMC,NA,NA,NA,NA,NA,87.61,NA,NA,8.95,NA,3.44,NA
+Netherlands,Amsterdam,HIC,NA,NA,NA,NA,NA,NA,NA,NA,14,NA,86,NA
+Netherlands,Eindhoven,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Norway,Bergen,HIC,NA,NA,NA,NA,39.1,14.5,NA,NA,46.4,NA,NA,NA
+Norway,Oslo,HIC,NA,NA,NA,NA,57.85,NA,NA,1.547,37.197,3.4,0.006,NA
+Nepal,Butwal,LIC,NA,NA,NA,NA,NA,NA,NA,62.7,NA,NA,37.3,NA
+Nepal,Pokhara,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,42.7,57.3,NA
+Nepal,Dhankuta,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,81.1,18.9,NA
+Nepal,Birgunj,LIC,NA,NA,NA,NA,NA,NA,19.65,19.65,NA,NA,60.7,NA
+Nepal,Kathmandu,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,86.9,13.1,NA
+Nepal,Lalitpur,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,71.2,28.8,NA
+Nepal,Badimalika,LIC,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA
+Nepal,Bharatpur,LIC,NA,NA,NA,NA,NA,NA,25.4,NA,NA,NA,74.6,NA
+Nepal,Dharan,LIC,NA,NA,NA,NA,NA,NA,NA,68.7,NA,NA,31.3,NA
+Nepal,Bhimeshwor,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nepal,Biratnagar,LIC,NA,NA,NA,NA,NA,NA,85.7,NA,NA,NA,14.3,NA
+Nepal,Bhaktapur,LIC,NA,NA,NA,NA,NA,NA,86.5,NA,NA,NA,13.5,NA
+New Zealand,Auckland,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,84,NA
+New Zealand,Wellington,HIC,NA,NA,1,NA,NA,88,NA,NA,10,NA,1,NA
+Oman,Muscat,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pakistan,Karachi,LMC,NA,NA,NA,60,NA,NA,NA,40,NA,NA,NA,NA
+Pakistan,Lahore,LMC,NA,NA,NA,61.53,6.15,NA,NA,NA,NA,32.31,0.01,NA
+Pakistan,Sialkot,LMC,NA,NA,NA,NA,NA,NA,25,NA,NA,NA,75,NA
+Panama,PanamÃ¡ City,HIC,NA,NA,NA,NA,NA,NA,NA,NA,2,65,33,NA
+Panama,San Miguelito,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,97.5,2.5,NA
+Panama,ColÃ³n,HIC,NA,NA,NA,NA,NA,NA,74,NA,NA,NA,26,NA
+Peru,Cusco,UMC,NA,NA,NA,NA,NA,NA,69.6,NA,0.3,NA,NA,30.1
+Philippines,Cebu,LMC,NA,NA,NA,NA,NA,NA,60,NA,NA,40,NA,NA
+Philippines,Quezon City,LMC,NA,NA,NA,61,NA,NA,NA,NA,42,NA,NA,NA
+Palau,Koror,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Papua New Guinea,Port Moresby,LMC,NA,NA,NA,61.56,NA,NA,NA,36.73,1.7,NA,0.01,NA
+Poland,Lodzi,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Poland,KrakÃ³w,HIC,NA,NA,NA,NA,NA,NA,NA,NA,33,NA,80.34,NA
+Portugal,Lisbon,HIC,NA,NA,NA,NA,NA,NA,NA,NA,21.8,NA,78.2,NA
+Portugal,GuimarÃ£es,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Paraguay,AsunciÃ³n,UMC,NA,NA,NA,NA,NA,NA,92.2,NA,NA,NA,7.8,NA
+Paraguay,Ciudad Del Este,UMC,NA,NA,NA,48.8,NA,NA,NA,NA,NA,NA,51.2,NA
+Paraguay,San Lorenzo,UMC,NA,NA,NA,NA,NA,NA,58.2,NA,NA,NA,41.8,NA
+West Bank and Gaza,Ramallah,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Qatar,Doha,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Romania,Cluj-Napoca,UMC,NA,NA,NA,NA,NA,NA,NA,NA,13.72,NA,NA,NA
+Romania,Bucharest,UMC,NA,NA,NA,NA,NA,NA,NA,NA,9.44,NA,NA,NA
+Russian Federation,Moscow,UMC,NA,NA,NA,NA,NA,NA,90,6,4,NA,NA,NA
+Russian Federation,St.petersburg,UMC,NA,NA,NA,NA,NA,80,NA,3,10,NA,7,NA
+Russian Federation,Kemerovo,UMC,NA,NA,NA,NA,NA,NA,98.1,NA,1.9,NA,NA,NA
+Rwanda,KigaliÂ ,LIC,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,75,NA
+Rwanda,Nyagatare,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,Jeddah,HIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saudi Arabia,Riyadh,HIC,NA,NA,NA,85,NA,NA,NA,NA,NA,NA,15,NA
+Senegal,Rufisque,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Solomon Islands,Honiara,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sierra Leone,Freetown,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,NA
+El Salvador,San Salvador,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,65.4,34.6,NA
+Somalia,Hargeysa,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Serbia,Belgrade,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Serbia,Novi Sad,UMC,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,98,NA
+South Sudan,Juba,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Slovak Republic,Trnava,HIC,NA,NA,NA,82.42,0.34,NA,0.56,6.9,9.79,NA,NA,NA
+Slovak Republic,Bratislava,HIC,NA,NA,NA,32.01,41.02,NA,0.43,16.73,9.81,NA,NA,NA
+Slovenia,Ljubljana,HIC,NA,NA,NA,NA,NA,39,NA,NA,61,NA,NA,NA
+Sweden,BorÃ¥s,HIC,NA,NA,NA,1,55,NA,NA,15.5,29,NA,NA,NA
+Sweden,Stockholm,HIC,NA,NA,NA,3,71.1,NA,NA,5,21,NA,NA,NA
+Syrian Arab Republic,Damascus,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Togo,Lome,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thailand,Bangkok,UMC,NA,NA,48.7,NA,NA,NA,NA,NA,11.85,39.45,NA,NA
+Tajikistan,DushanbeÂ ,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tajikistan,Khujand,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkmenistan,Ashgabat,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Timor-Leste,Dili,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tonga,Tongatapu,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tonga,Vavaâ€™u,UMC,NA,NA,1.5,27.4,NA,NA,NA,12.3,5.1,NA,53.7,NA
+Tunisia,Tunis,LMC,NA,NA,NA,NA,NA,NA,4,NA,3,93,NA,NA
+Tunisia,Sfax,LMC,NA,NA,NA,NA,NA,NA,NA,NA,2,98,NA,NA
+Tunisia,Sousse,LMC,NA,NA,NA,63,NA,NA,NA,NA,6,NA,NA,NA
+Turkey,Sakarya Mm,UMC,NA,NA,NA,NA,NA,NA,NA,NA,2.49,NA,97.51,NA
+Turkey,Bursa Mm (Metropolitan Municipality),UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tuvalu,Funafuti,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tanzania,Dar Es Salaam,LIC,NA,NA,NA,NA,NA,NA,NA,18,13,28,41,NA
+Tanzania,Moshi,LIC,NA,NA,20,49,NA,NA,NA,NA,NA,NA,31,NA
+Tanzania,Mountain Kilimanjaro,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Uganda,Kampala,LIC,NA,NA,NA,100,NA,NA,NA,NA,NA,NA,NA,NA
+Ukraine,Pavlograd,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ukraine,Kiev,LMC,NA,NA,NA,NA,23,70.6,NA,NA,6.4,NA,NA,NA
+Uruguay,Montevideo,HIC,NA,NA,NA,71,NA,NA,NA,NA,29,NA,NA,NA
+United States,Seattle,HIC,NA,NA,NA,41.95,NA,NA,NA,NA,58.04,NA,NA,NA
+United States,Washington Dc,HIC,32,NA,1,56,NA,NA,NA,NA,11,NA,NA,NA
+United States,Ann Arbor,HIC,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA
+Uzbekistan,Namangan,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Uzbekistan,Tashkent,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Venezuela, RB",Caracas,UMC,NA,NA,NA,NA,NA,NA,NA,NA,0.9,99.1,NA,NA
+Vietnam,Hanoi,LMC,NA,NA,2,NA,5.4,10.91,NA,NA,8.2,63.64,10,NA
+Vietnam,Ho Chi Minh City,LMC,NA,NA,15,NA,NA,NA,NA,NA,NA,85,NA,NA
+Vanuatu,Port Vila,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Samoa,Upolu (Apia),UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kosovo,Gjilan,LMC,NA,NA,NA,NA,NA,100,NA,NA,0,NA,NA,NA
+Kosovo,Pristina,LMC,NA,NA,NA,80,NA,NA,10,NA,10,NA,NA,NA
+"Yemen, Rep.",SanaÃ¡,LIC,NA,NA,NA,53,NA,NA,NA,NA,12,NA,30,5
+South Africa,JohannesburgÂ ,UMC,NA,NA,5,NA,NA,95,NA,NA,NA,NA,NA,NA
+South Africa,Cape Town,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,Soweto,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Africa,BloemfonteinÂ ,UMC,NA,NA,NA,32.3,NA,NA,NA,NA,NA,NA,67.7,NA
+South Africa,Durban,UMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zambia,NdolaÂ ,LMC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zambia,Lusaka,LMC,NA,NA,NA,26,NA,NA,NA,NA,6,NA,68,NA
+Zimbabwe,Kadoma City,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,Mbare,LIC,NA,NA,10,51,NA,NA,24,15,NA,NA,NA,NA
+Zimbabwe,Norton,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,Chinhoyi,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,HarareÂ ,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,Gweru,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,Kariba,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,Masvingo City,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Zimbabwe,SakubvaÂ ,LIC,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

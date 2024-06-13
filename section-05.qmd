@@ -1,0 +1,50 @@
+---
+title: "rbtl-fs24 end-of-semester exam"
+subtitle: "Section 05"
+format:
+  html:
+    embed-resources: true
+editor: visual
+execute: 
+  echo: true
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+# Points
+
+The maximum number of points for this section is: **6 out of 52**. The number of points for each task is shown in parenthesis next to the task number.
+
+# Task 5.1 (6)
+
+1.  Render the document and fix any errors.
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+generation <- read_csv("data/what_a_waste/waste-generation.csv")
+dictionary <- read_csv("data/what_a_waste/dictionary.csv")
+```
+
+@tbl-dictionary provides an overview of the variables in the waste generation data.
+
+```{r}
+#| label: dictionary
+#| tbl-cap: Dictionary for the generation data object.
+
+dictionary |> 
+  knitr::kable()
+```
+
+@fig_generation provides an overview of the total waste generation by income category.
+
+```{r}
+#| fig-cap: Total waste generation by income category.
+
+generation |> 
+  ggplot(aes(y = income_id, x = waste_generation)) +
+  geom_col()
+```

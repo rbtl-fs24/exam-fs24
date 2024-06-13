@@ -1,0 +1,368 @@
+country,city,income_id,waste_generation,population
+Afghanistan,Jalalabad,LIC,58914.450000000004,326585
+Afghanistan,Kandahar,LIC,120971,429000
+Afghanistan,Mazar-E-Sharif,LIC,52368.4,635250
+Afghanistan,Kabul,LIC,1989250,3700000
+Afghanistan,HiratÂ ,LIC,91644.7,337000
+Angola,Luanda,LMC,1316336,4508000
+Albania,Korca,UMC,21000,51152
+Albania,Vlora,UMC,37955,79513
+United Arab Emirates,Abu Dhabi,HIC,1033543,1145000
+United Arab Emirates,Dubai,HIC,2689808,2415000
+Argentina,CÃ³rdoba,HIC,488735,1329604
+Argentina,Rosario,HIC,438730,1193605
+Argentina,Ciudada AutÃ³noma De Buenos Aires (Caba).,HIC,2532005,2981781
+Armenia,Vanadzor,UMC,23596.97,86199
+Armenia,Spitak,UMC,2866,12881
+American Samoa,Pago Pago,UMC,NA,NA
+Australia,Perth,HIC,NA,20359
+Australia,Melbourne,HIC,NA,4203000
+Australia,Canberra,HIC,350000,353626
+Austria,Vienna,HIC,1036879,1741246
+Azerbaijan,Baku,UMC,1965922,2374000
+Burundi,Muyinga,LIC,5657.5,632409
+Burundi,Kayanza,LIC,4015,585412
+Burundi,Ngozi,LIC,6752.5,39884
+Burundi,Bujumbura,LIC,210532,412000
+Belgium,Brussels,HIC,469559,1154635
+Belgium,Liege,HIC,525300,1020579
+Benin,Porto Novo,LIC,109500,600000
+Benin,Cotonou,LIC,258420,642000
+Burkina Faso,Bobo Dioulasso,LIC,90000,365000
+Burkina Faso,Ouagadougou,LIC,315068,1328000
+Bangladesh,Patuakhali,LMC,5220,65000
+Bangladesh,Chittagong,LMC,320380,2581643
+Bangladesh,Rangpur,LMC,25992,294265
+Bangladesh,Dhaka,LMC,1424689,5700000
+Bangladesh,Rajshahi,LMC,40069.7,448087
+Bulgaria,Ruse,UMC,NA,144936
+Bulgaria,Burgas,UMC,NA,202766
+Bahrain,Manama,HIC,NA,411000
+Bosnia and Herzegovina,Banja Luka,UMC,65941,180053
+Bosnia and Herzegovina,Sarajevo,UMC,146280,318000
+Belarus,Minsk,UMC,1135421,1915000
+Belarus,Grodno,UMC,147500,340000
+Belize,San Pedro,UMC,10166,14215
+Belize,Belize City,UMC,32657,68266
+Bolivia,La Paz,LMC,202456.07,840209
+Brazil,"Distrito Federal, Brasilia",UMC,835480,2977216
+Brazil,Rio De Janeiro,UMC,3368499,6453682
+Brazil,Sao Paulo,UMC,4700000,11895893
+Bhutan,PhuentsholingÂ ,LMC,6205,40000
+Bhutan,Thimphu,LMC,18250,101990
+Botswana,Gaborone,UMC,53655,210000
+Canada,Toronto,HIC,942700,2800000
+Canada,Ottawa,HIC,325000,934243
+Canada,Vancouver,HIC,909519,2465031
+Switzerland,Bern,HIC,59000,358000
+Switzerland,Zurich,HIC,NA,1246000
+Chile,Santiago De Chile,HIC,3072148,7007620
+China,Beijing,UMC,7903000,20384000
+Côte d’Ivoire,Abidjan,LMC,1200000,4150000
+Cameroon,Limbe,LMC,NA,NA
+Cameroon,Douala,LMC,380695,1490000
+Cameroon,Yaounde,LMC,375303.95,2349000
+Cameroon,Bafoussam,LMC,30000,193000
+"Congo, Dem. Rep.",Kinshasa,LIC,2555000,11587000
+"Congo, Rep.",Dolisie,LMC,17550,95000
+Colombia,BogotÃ¡,UMC,1746890,6840116
+Colombia,Medellin,UMC,476455,2464322
+Colombia,Cali,UMC,669410,2224158
+Comoros,Moroni,LIC,NA,56000
+Costa Rica,San JosÃ©,UMC,132405,309673
+Costa Rica,Alajuela,UMC,80901.43999999999,254886
+Cuba,Havana,UMC,545683.3600000001,2135747
+Cyprus,Paralimini,HIC,NA,11836
+Cyprus,Nicosia,HIC,36198,55014
+Czech Republic,Karlovy Vary,HIC,131539.27000000002,299293
+Czech Republic,Prague,HIC,400900,1243201
+Germany,Hamburg,HIC,NA,1831000
+Germany,Berlin,HIC,1350457,3563000
+Djibouti,Djiibouti City,LMC,87600,404000
+Denmark,Copenhagen,HIC,233805,570171
+Dominican Republic,Santo Domingo,UMC,1818889,3976012
+Algeria,Algiers,UMC,1237874,2594000
+Algeria,Mostaganem,UMC,160000,720000
+Ecuador,Quito,UMC,727297.66,2344231
+"Egypt, Arab Rep.",Cairo,LMC,5475000,9000000
+Spain,Pamplona,HIC,141296,195650
+Spain,Madrid,HIC,2652471,3165235
+Estonia,Tallinn,HIC,202011,391000
+Estonia,Tartummaa,HIC,NA,150000
+Ethiopia,Adola Woyu,LIC,3222,32692
+Ethiopia,Bule Hora,LIC,7322,35192
+Ethiopia,Addis Ababa,LIC,413180,2979100
+Ethiopia,Maichew,LIC,4907,33560
+Ethiopia,Tepi,LIC,4697.9,36128
+Ethiopia,Gerbe Guracha,LIC,5277.620000000001,41438
+Ethiopia,Weldiya,LIC,4787,86311
+Ethiopia,Debre Tabor,LIC,6570,78706
+Ethiopia,Bati,LIC,1469,20536
+Ethiopia,Dire Dawa,LIC,49275,270000
+Ethiopia,Halaba Kulito,LIC,NA,271654
+Ethiopia,Dembi Dolo,LIC,3295,41031
+Finland,Oulu,HIC,NA,196321
+Finland,Riihimaki,HIC,NA,30000
+Finland,Turku,HIC,NA,180000
+Fiji,Suva,UMC,24272.5,86000
+France,Angers-Loire Metropole,HIC,136405,277506
+France,Paris,HIC,1092508,2254262
+"Micronesia, Fed. Sts.",Pohnpei,LMC,4562.5,34574
+Gabon,Libreville,UMC,417428,707000
+United Kingdom,London,HIC,3560990,8173941
+United Kingdom,Bristol,HIC,166000,449300
+Georgia,Tbilisi,LMC,NA,1147000
+Ghana,Accra,LMC,730000,1960000
+Ghana,Kumasi,LMC,397047,1470000
+Guinea,Conakry,LIC,219000,1045000
+"Gambia, The",Banjul,LIC,79935,331000
+Equatorial Guinea,Labe,UMC,NA,NA
+Greece,Athens,HIC,310439.33999999997,664046
+Greece,Thessaloniki,HIC,130629,354290
+Guatemala,Guatemala City,UMC,482700,2918000
+Guatemala,Antigua Guatemala,UMC,8483,41500
+Guatemala,Jutiapa,UMC,59100,453369
+Honduras,Tegucigalpa,LMC,320470,1200000
+Honduras,San Pedro Sula,LMC,289685.9,852000
+Croatia,Zagreb,HIC,255803.62,687000
+Croatia,Cakovec,HIC,8265.140000000001,15000
+Haiti,Port Au Prince,LIC,669127.42,2618894
+Hungary,Debrecen,HIC,NA,201981
+Hungary,Budapest,HIC,1000000,1744665
+Indonesia,Jakarta,LMC,2240735,9607787
+Isle of Man,Douglas,HIC,NA,29000
+India,Kota,LMC,216504,1001694
+India,Kozhikode,LMC,109500,431560
+India,Jaipur,LMC,542390,3046163
+India,Tirunelveli,LMC,70007,479606
+India,Amritsar,LMC,227395,1132383
+India,Allahabad,LMC,236640,1168385
+India,Greater Hyderabad Â ,LMC,1642500,6731790
+India,Kochi,LMC,72000,602046
+India,Leh,LMC,12045,17353
+India,Pune,LMC,620500,3124458
+India,Patna,LMC,338106.8,1684222
+India,Jodhpur,LMC,124538,1033756
+India,Nagpur,LMC,383250,2405665
+India,Shimla,LMC,34039.9,169578
+India,Rudrapur,LMC,23725,154554
+India,Bengaluru,LMC,1277500,8443675
+India,Pimpri-Chinchwad,LMC,271925,1727692
+India,Kanpur,LMC,547500,2767031
+India,Rajkot,LMC,193450,1432734
+India,Tenali,LMC,34675,164937
+India,Lucknow,LMC,505525,2817106
+India,Ludhiana,LMC,401500,1840000
+India,Tadipatri,LMC,14600,108249
+India,Bhopal,LMC,292000,1798218
+India,Faridabad,LMC,242360,1414050
+India,Cuttack,LMC,66816,610189
+India,Ahmedabad,LMC,1204500,6494197
+India,Itanagar,LMC,29200,59500
+India,Vishakhapatnam,LMC,354050,1728128
+India,Nashik,LMC,148569.6,1486053
+India,Dhanbad,LMC,197976,1162472
+India,Delhi,LMC,3062350,11034555
+India,Srinagar,LMC,106390.2,1147613
+India,Ghaziabad,LMC,271925,1648643
+India,Imphal,LMC,29200,268243
+India,Surat,LMC,620500,5500000
+India,Vijaywada,LMC,207320,1137793
+India,Chennai,LMC,1825000,6671309
+India,Indore,LMC,328500,1994397
+India,Coimbatore,LMC,324850,1050721
+India,Navi Mumbai,LMC,237250,1120574
+India,Greater Mumbai,LMC,2497804.5,12478447
+India,Guwahati,LMC,223015,957352
+India,GwaliorÂ ,LMC,138754.75,1069276
+India,Bhubaneswar,LMC,189800,837737
+India,Mysore,LMC,146730,1058210
+India,Warangal,LMC,109500,615998
+Ireland,Dublin,HIC,142889,527612
+"Iran, Islamic Rep.",Tehran,UMC,2868170,8432000
+Iraq,Baghdad,UMC,3285000,7000000
+Israel,Jerusalem,HIC,NA,778000
+Israel,Tel Aviv,HIC,NA,3311000
+Italy,Parma,HIC,97142.43999999999,192836
+Italy,Milano,HIC,668158,1236837
+Jordan,Amman,UMC,996815,2400000
+Japan,Yokohama,HIC,1182892,3730345
+Japan,Kobe,HIC,559401,1547494
+Japan,Osaka,HIC,1021258,2679962
+Japan,Naha,HIC,100375,323558
+Japan,Kitakyushu,HIC,409332,972192
+Japan,Toyama,HIC,163417,418495
+Kazakhstan,Atyrau,UMC,100000,275896
+Kazakhstan,Kostanay,UMC,NA,228000
+Kenya,EldoretÂ ,LMC,NA,167016
+Kenya,Nairobi,LMC,829645,3050000
+Kyrgyz Republic,Osh,LMC,312700,281900
+Kyrgyz Republic,Bishkek,LMC,544700,865000
+Cambodia,Phnom Penh,LMC,711750,1731000
+Kiribati,South Tarawa,LMC,8395,46000
+"Korea, Rep.",Seoul,HIC,3353985,10204000
+Kuwait,Kuwait City,HIC,NA,2779000
+Lao PDR,Vientiane,LMC,232505,997000
+Lebanon,Beirut,UMC,240000,650000
+Lebanon,Saida,UMC,36500,150000
+Liberia,Monrovia,LIC,284700,1056000
+Libya,Tripoli,UMC,263033.6,1126000
+Sri Lanka,Dehiwala Mt. Lavinia Municipal Council,LMC,63948,187684
+Sri Lanka,Kurunegala,LMC,17545.55,25317
+Sri Lanka,Trincomalee,LMC,22662.85,50268
+Sri Lanka,Jaffna,LMC,38278,82493
+Sri Lanka,Moratuwa,LMC,45442.5,171214
+Sri Lanka,Colombo,LMC,282875,318048
+Lithuania,Vilnius,HIC,289300,517000
+Lithuania,Kaunas,HIC,130663,292691
+Latvia,Liepaja,HIC,NA,69443
+Latvia,Riga,HIC,312346,643368
+Morocco,Rabat,LMC,237250,650000
+Morocco,Tangier,LMC,350000,1100000
+Morocco,Beni Mellal,LMC,52955,192362
+Moldova,Soldanesti,LMC,2037.5,7500
+Moldova,Chisinau,LMC,282900,789534
+Madagascar,Antananarivo,LIC,401500,2610000
+Maldives,Male,UMC,87143.57,153904
+Maldives,Addu,UMC,7612,21275
+Maldives,Fuahmulah,UMC,2510.4700000000003,8510
+Mexico,MÃ©xico City,UMC,4705945,8851080
+Mexico,Guadalajara,UMC,648812,1460148
+Mexico,Monterrey,UMC,430158,1109171
+Marshall Islands,Majuro,UMC,8614,40108
+"Macedonia, FYR",Kratovo,UMC,1518,9536
+"Macedonia, FYR",Skopje,UMC,182489,503000
+Mali,Bamako,LIC,330000,1933000
+Mali,Sikasso,LIC,46770,225000
+Myanmar,Mandalay,LMC,343100,1000000
+Myanmar,Yangon,LMC,723065,4802000
+Montenegro,Podgorica,UMC,87808,190392
+Montenegro,Kotor,UMC,10121,22515
+Mongolia,Ulaanbaatar,LMC,1100000,1377000
+Northern Mariana Islands,Saipan,HIC,32371.85,49000
+Mozambique,Maputo,LIC,401500,1100000
+Mauritania,Nouakchott,LMC,NA,968000
+Malawi,Blantyre,LIC,100000,701000
+Malawi,Lilongwe,LIC,95000,731000
+Malaysia,Kuala Lumpur,UMC,1600000,6837000
+Namibia,Windhoek,UMC,57998.5,227000
+Niger,Niamey,LIC,146000,816000
+Nigeria,Ilorin,LMC,NA,857000
+Nigeria,Lagos,LMC,1642500,9000000
+Nigeria,Kano,LMC,NA,NA
+Nigeria,Oyo,LMC,20000,322000
+Nigeria,Ibadan,LMC,635000,3160000
+Nicaragua,Puerto Cabezas,LMC,14198.5,66169
+Nicaragua,Managua,LMC,468660,1002882
+Netherlands,Amsterdam,HIC,324302,799345
+Netherlands,Eindhoven,HIC,NA,226879
+Norway,Bergen,HIC,70528,271949
+Norway,Oslo,HIC,360876,986000
+Nepal,Butwal,LIC,9902.449999999999,120982
+Nepal,Pokhara,LIC,42745.15,264991
+Nepal,Dhankuta,LIC,2701,28364
+Nepal,Birgunj,LIC,13932.05,139068
+Nepal,Kathmandu,LIC,170141.1,1003285
+Nepal,Lalitpur,LIC,30769.5,226728
+Nepal,Badimalika,LIC,872.3499999999999,18207
+Nepal,Bharatpur,LIC,21578.8,147777
+Nepal,Dharan,LIC,18585.8,119915
+Nepal,Bhimeshwor,LIC,1036.6,23337
+Nepal,Biratnagar,LIC,21305.05,204949
+Nepal,Bhaktapur,LIC,10548.5,83658
+New Zealand,Auckland,HIC,226352,1414700
+New Zealand,Wellington,HIC,302500,383000
+Oman,Muscat,HIC,848052.6699999999,1401456
+Pakistan,Karachi,LMC,2719250,14910352
+Pakistan,Lahore,LMC,2436656.4149999996,11126285
+Pakistan,Sialkot,LMC,125000,809000
+Panama,PanamÃ¡ City,HIC,494579.98000000004,1382667
+Panama,San Miguelito,HIC,199436,560285
+Panama,ColÃ³n,HIC,59860,250802
+Peru,Cusco,UMC,48563,111340
+Philippines,Cebu,LMC,229950,923000
+Philippines,Quezon City,LMC,944328,2940000
+Palau,Koror,HIC,1369,11754
+Papua New Guinea,Port Moresby,LMC,107310,345000
+Poland,Lodzi,HIC,157070.6,728900
+Poland,KrakÃ³w,HIC,320500,741208
+Portugal,Lisbon,HIC,291703.71,511667
+Portugal,GuimarÃ£es,HIC,56000,158100
+Paraguay,AsunciÃ³n,UMC,282613,525293
+Paraguay,Ciudad Del Este,UMC,157731.1,337608
+Paraguay,San Lorenzo,UMC,105711,283939
+West Bank and Gaza,Ramallah,LMC,NA,NA
+Qatar,Doha,HIC,359035.9,718000
+Romania,Cluj-Napoca,UMC,112194,327000
+Romania,Bucharest,UMC,632866.62,1868000
+Russian Federation,Moscow,UMC,5500000,11461000
+Russian Federation,St.petersburg,UMC,2300000,4993000
+Russian Federation,Kemerovo,UMC,189254,533000
+Rwanda,KigaliÂ ,LIC,871729.5,1257000
+Rwanda,Nyagatare,LIC,NA,465855
+Saudi Arabia,Jeddah,HIC,2200000,4076000
+Saudi Arabia,Riyadh,HIC,4380000,6370000
+Senegal,Rufisque,LIC,76650,300000
+Solomon Islands,Honiara,LMC,29000,78000
+Sierra Leone,Freetown,LIC,163520,800000
+El Salvador,San Salvador,LMC,293747,1097000
+Somalia,Hargeysa,LIC,80000,607000
+Serbia,Belgrade,UMC,781692,1392691
+Serbia,Novi Sad,UMC,120773,314192
+South Sudan,Juba,LIC,130053.15000000001,321000
+Slovak Republic,Trnava,HIC,60816,65536
+Slovak Republic,Bratislava,HIC,140594,415589
+Slovenia,Ljubljana,HIC,98410,309261
+Sweden,BorÃ¥s,HIC,25500,106000
+Sweden,Stockholm,HIC,399133,897700
+Syrian Arab Republic,Damascus,LIC,1095000,2566000
+Togo,Lome,LIC,311000,956000
+Thailand,Bangkok,UMC,4190000,9270000
+Tajikistan,DushanbeÂ ,LIC,257000,679400
+Tajikistan,Khujand,LIC,51974,144865
+Turkmenistan,Ashgabat,UMC,164000,746000
+Timor-Leste,Dili,LMC,54750,234331
+Tonga,Tongatapu,UMC,10950,69211
+Tonga,Vavaâ€™u,UMC,5515,14936
+Tunisia,Tunis,LMC,220000,700000
+Tunisia,Sfax,LMC,77000,300000
+Tunisia,Sousse,LMC,70000,170000
+Turkey,Sakarya Mm,UMC,358139,925662
+Turkey,Bursa Mm (Metropolitan Municipality),UMC,1069711,2764826
+Tuvalu,Funafuti,UMC,NA,6000
+Tanzania,Dar Es Salaam,LIC,1496500,4364541
+Tanzania,Moshi,LIC,62050,183520
+Tanzania,Mountain Kilimanjaro,LIC,50000,210000
+Uganda,Kampala,LIC,840000,1936000
+Ukraine,Pavlograd,LMC,84600,109885
+Ukraine,Kiev,LMC,1100000,2942000
+Uruguay,Montevideo,HIC,481800,1319108
+United States,Seattle,HIC,720904,631350
+United States,Washington Dc,HIC,479930.77,693972
+United States,Ann Arbor,HIC,200767.81999999998,307000
+Uzbekistan,Namangan,LMC,NA,521000
+Uzbekistan,Tashkent,LMC,500000,2251000
+"Venezuela, RB",Caracas,UMC,1787940,3220540
+Vietnam,Hanoi,LMC,2390750,3629000
+Vietnam,Ho Chi Minh City,LMC,2518500,7981900
+Vanuatu,Port Vila,LMC,27000,44039
+Samoa,Upolu (Apia),UMC,NA,147184
+Kosovo,Gjilan,LMC,27000,90015
+Kosovo,Pristina,LMC,130928,210000
+"Yemen, Rep.",SanaÃ¡,LIC,510420.89,2330689
+South Africa,JohannesburgÂ ,UMC,1867000,4434827
+South Africa,Cape Town,UMC,1251950,3430000
+South Africa,Soweto,UMC,NA,NA
+South Africa,BloemfonteinÂ ,UMC,NA,256185
+South Africa,Durban,UMC,1421541,2739000
+Zambia,NdolaÂ ,LMC,85979.4,453000
+Zambia,Lusaka,LMC,530000,1719000
+Zimbabwe,Kadoma City,LIC,NA,NA
+Zimbabwe,Mbare,LIC,NA,NA
+Zimbabwe,Norton,LIC,14021.04,58421
+Zimbabwe,Chinhoyi,LIC,25480,98000
+Zimbabwe,HarareÂ ,LIC,352334.5,1379000
+Zimbabwe,Gweru,LIC,37887.6,157865
+Zimbabwe,Kariba,LIC,7423.360000000001,26512
+Zimbabwe,Masvingo City,LIC,NA,NA
+Zimbabwe,SakubvaÂ ,LIC,NA,NA

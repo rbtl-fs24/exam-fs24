@@ -1,0 +1,644 @@
+country,city,income_id,treatment,value
+Afghanistan,Jalalabad,LIC,open_dump,100
+Afghanistan,Kandahar,LIC,open_dump,100
+Afghanistan,Mazar-E-Sharif,LIC,open_dump,100
+Afghanistan,Kabul,LIC,open_dump,75
+Afghanistan,Kabul,LIC,unaccounted_for,25
+Afghanistan,HiratÂ ,LIC,open_dump,100
+Albania,Korca,UMC,controlled_landfill,100
+Albania,Vlora,UMC,open_dump,90
+Albania,Vlora,UMC,recycling,10
+United Arab Emirates,Abu Dhabi,HIC,compost,9
+United Arab Emirates,Abu Dhabi,HIC,landfill_unspecified,9
+United Arab Emirates,Abu Dhabi,HIC,open_dump,62
+United Arab Emirates,Abu Dhabi,HIC,recycling,20
+United Arab Emirates,Dubai,HIC,recycling,25
+United Arab Emirates,Dubai,HIC,sanitary_landfill_landfill_gas_system,75
+Argentina,CÃ³rdoba,HIC,controlled_landfill,69.32
+Argentina,CÃ³rdoba,HIC,open_dump,30
+Argentina,CÃ³rdoba,HIC,recycling,0.68
+Argentina,Rosario,HIC,compost,15.2
+Argentina,Rosario,HIC,sanitary_landfill_landfill_gas_system,89.19
+Argentina,Ciudada AutÃ³noma De Buenos Aires (Caba).,HIC,other,14.42
+Argentina,Ciudada AutÃ³noma De Buenos Aires (Caba).,HIC,recycling,7.2
+Argentina,Ciudada AutÃ³noma De Buenos Aires (Caba).,HIC,sanitary_landfill_landfill_gas_system,61.5
+Argentina,Ciudada AutÃ³noma De Buenos Aires (Caba).,HIC,unaccounted_for,16.88
+Armenia,Vanadzor,UMC,open_dump,90
+Armenia,Vanadzor,UMC,unaccounted_for,10
+Armenia,Spitak,UMC,open_dump,93.16
+Armenia,Spitak,UMC,unaccounted_for,6.84
+American Samoa,Pago Pago,UMC,controlled_landfill,0
+Australia,Perth,HIC,recycling,18
+Australia,Melbourne,HIC,controlled_landfill,74.19
+Australia,Melbourne,HIC,recycling,25.81
+Australia,Canberra,HIC,controlled_landfill,28
+Australia,Canberra,HIC,recycling,70
+Australia,Canberra,HIC,unaccounted_for,2
+Azerbaijan,Baku,UMC,incineration,24.21
+Azerbaijan,Baku,UMC,sanitary_landfill_landfill_gas_system,36.36
+Azerbaijan,Baku,UMC,unaccounted_for,49.22
+Burundi,Muyinga,LIC,open_dump,100
+Burundi,Ngozi,LIC,open_dump,100
+Burundi,Bujumbura,LIC,open_dump,100
+Belgium,Liege,HIC,anaerobic_digestion,3
+Belgium,Liege,HIC,compost,14
+Belgium,Liege,HIC,incineration,26
+Belgium,Liege,HIC,recycling,53
+Belgium,Liege,HIC,sanitary_landfill_landfill_gas_system,4
+Bangladesh,Patuakhali,LMC,open_dump,55.45
+Bangladesh,Patuakhali,LMC,recycling,4.55
+Bangladesh,Patuakhali,LMC,unaccounted_for,40
+Bangladesh,Chittagong,LMC,compost,0.42
+Bangladesh,Chittagong,LMC,open_dump,29.17
+Bangladesh,Chittagong,LMC,recycling,12.41
+Bangladesh,Chittagong,LMC,unaccounted_for,58
+Bangladesh,Rangpur,LMC,open_dump,27.16
+Bangladesh,Rangpur,LMC,recycling,4.84
+Bangladesh,Rangpur,LMC,unaccounted_for,68
+Bangladesh,Dhaka,LMC,open_dump,43.5
+Bangladesh,Dhaka,LMC,other,43
+Bangladesh,Dhaka,LMC,recycling,13.5
+Bangladesh,Rajshahi,LMC,open_dump,67.29
+Bangladesh,Rajshahi,LMC,recycling,4.71
+Bangladesh,Rajshahi,LMC,unaccounted_for,28
+Bosnia and Herzegovina,Banja Luka,UMC,sanitary_landfill_landfill_gas_system,100
+Belarus,Minsk,UMC,sanitary_landfill_landfill_gas_system,97
+Belarus,Minsk,UMC,unaccounted_for,3
+Belarus,Grodno,UMC,controlled_landfill,99.4
+Belarus,Grodno,UMC,recycling,0.6
+Belize,San Pedro,UMC,sanitary_landfill_landfill_gas_system,57.6
+Belize,San Pedro,UMC,unaccounted_for,42.4
+Belize,Belize City,UMC,sanitary_landfill_landfill_gas_system,65
+Belize,Belize City,UMC,unaccounted_for,35
+Bolivia,La Paz,LMC,compost,1
+Bolivia,La Paz,LMC,recycling,4
+Bolivia,La Paz,LMC,sanitary_landfill_landfill_gas_system,89
+Bolivia,La Paz,LMC,unaccounted_for,6
+Brazil,"Distrito Federal, Brasilia",UMC,controlled_landfill,100
+Brazil,"Distrito Federal, Brasilia",UMC,recycling,5.94
+Brazil,"Distrito Federal, Brasilia",UMC,sanitary_landfill_landfill_gas_system,0
+Brazil,Rio De Janeiro,UMC,controlled_landfill,6.3
+Brazil,Rio De Janeiro,UMC,open_dump,0
+Brazil,Rio De Janeiro,UMC,recycling,0.5
+Brazil,Rio De Janeiro,UMC,sanitary_landfill_landfill_gas_system,93.2
+Brazil,Sao Paulo,UMC,compost,3
+Brazil,Sao Paulo,UMC,controlled_landfill,24
+Brazil,Sao Paulo,UMC,open_dump,18
+Brazil,Sao Paulo,UMC,sanitary_landfill_landfill_gas_system,55
+Bhutan,PhuentsholingÂ ,LMC,sanitary_landfill_landfill_gas_system,100
+Bhutan,Thimphu,LMC,compost,8
+Bhutan,Thimphu,LMC,open_dump,82
+Bhutan,Thimphu,LMC,recycling,5
+Bhutan,Thimphu,LMC,unaccounted_for,5
+Canada,Toronto,HIC,compost,3.74
+Canada,Toronto,HIC,controlled_landfill,52.08
+Canada,Toronto,HIC,recycling,47.91
+Canada,Ottawa,HIC,recycling,42.5
+Switzerland,Bern,HIC,recycling,43.22
+Chile,Santiago De Chile,HIC,controlled_landfill,1.2
+Chile,Santiago De Chile,HIC,sanitary_landfill_landfill_gas_system,98.8
+China,Beijing,UMC,compost,2
+China,Beijing,UMC,incineration,8
+China,Beijing,UMC,sanitary_landfill_landfill_gas_system,90
+"Congo, Dem. Rep.",Kinshasa,LIC,open_dump,10
+"Congo, Dem. Rep.",Kinshasa,LIC,unaccounted_for,90
+Colombia,BogotÃ¡,UMC,recycling,17
+Colombia,BogotÃ¡,UMC,sanitary_landfill_landfill_gas_system,83
+Colombia,Medellin,UMC,recycling,16
+Colombia,Medellin,UMC,sanitary_landfill_landfill_gas_system,84
+Colombia,Cali,UMC,recycling,15
+Colombia,Cali,UMC,sanitary_landfill_landfill_gas_system,85
+Comoros,Moroni,LIC,controlled_landfill,40
+Comoros,Moroni,LIC,unaccounted_for,60
+Costa Rica,San JosÃ©,UMC,other,0.38
+Costa Rica,San JosÃ©,UMC,recycling,5.2
+Costa Rica,San JosÃ©,UMC,sanitary_landfill_landfill_gas_system,94.42
+Costa Rica,Alajuela,UMC,recycling,0.42
+Costa Rica,Alajuela,UMC,sanitary_landfill_landfill_gas_system,100
+Cuba,Havana,UMC,controlled_landfill,97
+Cuba,Havana,UMC,other,3
+Cyprus,Nicosia,HIC,compost,2.87
+Cyprus,Nicosia,HIC,landfill_unspecified,87.23
+Cyprus,Nicosia,HIC,recycling,9.89
+Cyprus,Nicosia,HIC,unaccounted_for,0.01
+Germany,Berlin,HIC,controlled_landfill,1
+Germany,Berlin,HIC,incineration,65
+Germany,Berlin,HIC,other,6
+Germany,Berlin,HIC,recycling,28
+Djibouti,Djiibouti City,LMC,other,62
+Dominican Republic,Santo Domingo,UMC,sanitary_landfill_landfill_gas_system,72
+Dominican Republic,Santo Domingo,UMC,unaccounted_for,28
+Algeria,Algiers,UMC,compost,1
+Algeria,Algiers,UMC,other,7
+Algeria,Algiers,UMC,recycling,10
+Algeria,Algiers,UMC,sanitary_landfill_landfill_gas_system,82
+Ecuador,Quito,UMC,recycling,6
+Ecuador,Quito,UMC,sanitary_landfill_landfill_gas_system,89
+Ecuador,Quito,UMC,unaccounted_for,5
+Spain,Pamplona,HIC,controlled_landfill,68
+Spain,Pamplona,HIC,recycling,32
+Spain,Madrid,HIC,anaerobic_digestion,10
+Spain,Madrid,HIC,compost,5
+Spain,Madrid,HIC,controlled_landfill,29
+Spain,Madrid,HIC,incineration,10
+Spain,Madrid,HIC,other,36
+Spain,Madrid,HIC,recycling,10
+Ethiopia,Dire Dawa,LIC,open_dump,100
+Finland,Oulu,HIC,sanitary_landfill_landfill_gas_system,7.5
+Finland,Oulu,HIC,unaccounted_for,92.5
+France,Angers-Loire Metropole,HIC,compost,22.85
+France,Angers-Loire Metropole,HIC,incineration,0.23
+France,Angers-Loire Metropole,HIC,recycling,17.66
+France,Angers-Loire Metropole,HIC,sanitary_landfill_landfill_gas_system,53.95
+France,Angers-Loire Metropole,HIC,unaccounted_for,5
+France,Paris,HIC,incineration,77.5
+France,Paris,HIC,recycling,17.1
+France,Paris,HIC,sanitary_landfill_landfill_gas_system,5.4
+Gabon,Libreville,UMC,open_dump,100
+United Kingdom,London,HIC,incineration,47
+United Kingdom,London,HIC,landfill_unspecified,20
+United Kingdom,London,HIC,other,4
+United Kingdom,London,HIC,recycling,30
+United Kingdom,Bristol,HIC,advanced_thermal_treatment,25.3
+United Kingdom,Bristol,HIC,controlled_landfill,29.67
+United Kingdom,Bristol,HIC,recycling,45.03
+Ghana,Accra,LMC,recycling,5
+Ghana,Accra,LMC,unaccounted_for,95
+Guatemala,Guatemala City,UMC,open_dump,48
+Guatemala,Guatemala City,UMC,other,47
+Guatemala,Guatemala City,UMC,recycling,5
+Guatemala,Jutiapa,UMC,open_dump,12.44
+Guatemala,Jutiapa,UMC,other,87.56
+Honduras,Tegucigalpa,LMC,compost,0
+Honduras,Tegucigalpa,LMC,open_dump,5
+Honduras,Tegucigalpa,LMC,other,2
+Honduras,Tegucigalpa,LMC,recycling,3
+Honduras,Tegucigalpa,LMC,sanitary_landfill_landfill_gas_system,89
+Honduras,Tegucigalpa,LMC,unaccounted_for,1
+Haiti,Port Au Prince,LIC,controlled_landfill,20
+Haiti,Port Au Prince,LIC,unaccounted_for,80
+Hungary,Budapest,HIC,incineration,52
+Hungary,Budapest,HIC,unaccounted_for,48
+Indonesia,Jakarta,LMC,landfill_unspecified,69.5
+Indonesia,Jakarta,LMC,recycling,7.5
+Indonesia,Jakarta,LMC,unaccounted_for,23
+India,Kota,LMC,open_dump,100
+India,Kozhikode,LMC,compost,25
+India,Kozhikode,LMC,open_dump,60
+India,Kozhikode,LMC,unaccounted_for,15
+India,Jaipur,LMC,compost,16.8
+India,Jaipur,LMC,open_dump,60
+India,Jaipur,LMC,other,23.6
+India,Tirunelveli,LMC,open_dump,100
+India,Amritsar,LMC,open_dump,100
+India,Allahabad,LMC,compost,28
+India,Allahabad,LMC,open_dump,65.7
+India,Allahabad,LMC,unaccounted_for,6.3
+India,Greater Hyderabad Â ,LMC,compost,44
+India,Greater Hyderabad Â ,LMC,controlled_landfill,10
+India,Greater Hyderabad Â ,LMC,other,36
+India,Greater Hyderabad Â ,LMC,unaccounted_for,10
+India,Kochi,LMC,compost,40.3
+India,Kochi,LMC,controlled_landfill,38
+India,Kochi,LMC,recycling,21.6
+India,Kochi,LMC,unaccounted_for,0.1
+India,Leh,LMC,open_dump,100
+India,Pune,LMC,anaerobic_digestion,10.48
+India,Pune,LMC,compost,16.84
+India,Pune,LMC,open_dump,50
+India,Pune,LMC,other,10.89
+India,Pune,LMC,recycling,11.17
+India,Pune,LMC,unaccounted_for,0.62
+India,Patna,LMC,open_dump,15
+India,Patna,LMC,unaccounted_for,35
+India,Jodhpur,LMC,compost,24.7
+India,Jodhpur,LMC,open_dump,54
+India,Jodhpur,LMC,unaccounted_for,21.3
+India,Nagpur,LMC,compost,15
+India,Nagpur,LMC,open_dump,81
+India,Shimla,LMC,other,16
+India,Shimla,LMC,recycling,15
+India,Shimla,LMC,unaccounted_for,69
+India,Rudrapur,LMC,open_dump,92
+India,Rudrapur,LMC,unaccounted_for,8
+India,Bengaluru,LMC,anaerobic_digestion,0.57
+India,Bengaluru,LMC,compost,14.28
+India,Bengaluru,LMC,open_dump,70
+India,Bengaluru,LMC,unaccounted_for,15.15
+India,Pimpri-Chinchwad,LMC,compost,60.9
+India,Pimpri-Chinchwad,LMC,other,0.2
+India,Pimpri-Chinchwad,LMC,recycling,18.8
+India,Pimpri-Chinchwad,LMC,sanitary_landfill_landfill_gas_system,20
+India,Pimpri-Chinchwad,LMC,unaccounted_for,0.1
+India,Kanpur,LMC,compost,46.66
+India,Kanpur,LMC,incineration,35
+India,Kanpur,LMC,recycling,8
+India,Kanpur,LMC,unaccounted_for,10.34
+India,Rajkot,LMC,open_dump,100
+India,Tenali,LMC,anaerobic_digestion,2.1
+India,Tenali,LMC,compost,1.05
+India,Tenali,LMC,open_dump,90
+India,Tenali,LMC,recycling,3.7
+India,Tenali,LMC,unaccounted_for,3.15
+India,Lucknow,LMC,compost,23
+India,Lucknow,LMC,open_dump,60
+India,Lucknow,LMC,other,15
+India,Lucknow,LMC,unaccounted_for,2
+India,Ludhiana,LMC,open_dump,45
+India,Ludhiana,LMC,other,55
+India,Tadipatri,LMC,compost,70
+India,Tadipatri,LMC,open_dump,30
+India,Bhopal,LMC,anaerobic_digestion,0.75
+India,Bhopal,LMC,compost,21.1
+India,Bhopal,LMC,unaccounted_for,78.15
+India,Faridabad,LMC,compost,36.7
+India,Faridabad,LMC,unaccounted_for,42.4
+India,Cuttack,LMC,open_dump,100
+India,Ahmedabad,LMC,compost,36.4
+India,Ahmedabad,LMC,recycling,15
+India,Ahmedabad,LMC,sanitary_landfill_landfill_gas_system,49
+India,Itanagar,LMC,compost,62.5
+India,Itanagar,LMC,open_dump,12
+India,Itanagar,LMC,unaccounted_for,25.5
+India,Vishakhapatnam,LMC,open_dump,97
+India,Vishakhapatnam,LMC,unaccounted_for,3
+India,Nashik,LMC,controlled_landfill,20
+India,Nashik,LMC,unaccounted_for,35
+India,Delhi,LMC,compost,7.8
+India,Delhi,LMC,incineration,31.9
+India,Delhi,LMC,open_dump,13.3
+India,Delhi,LMC,other,8.3
+India,Delhi,LMC,recycling,15
+India,Delhi,LMC,unaccounted_for,23.8
+India,Srinagar,LMC,open_dump,100
+India,Ghaziabad,LMC,compost,40
+India,Ghaziabad,LMC,open_dump,60
+India,Surat,LMC,compost,23.5
+India,Surat,LMC,open_dump,76
+India,Surat,LMC,unaccounted_for,0.5
+India,Vijaywada,LMC,anaerobic_digestion,3.5
+India,Vijaywada,LMC,compost,22
+India,Vijaywada,LMC,open_dump,74
+India,Vijaywada,LMC,unaccounted_for,0.5
+India,Chennai,LMC,compost,1
+India,Chennai,LMC,controlled_landfill,99
+India,Indore,LMC,compost,50
+India,Indore,LMC,open_dump,25
+India,Indore,LMC,other,25
+India,Coimbatore,LMC,anaerobic_digestion,0.1
+India,Coimbatore,LMC,compost,53.4
+India,Coimbatore,LMC,recycling,20
+India,Coimbatore,LMC,sanitary_landfill_landfill_gas_system,24
+India,Coimbatore,LMC,unaccounted_for,0.02
+India,Navi Mumbai,LMC,compost,82
+India,Navi Mumbai,LMC,controlled_landfill,18
+India,Greater Mumbai,LMC,open_dump,54
+India,Greater Mumbai,LMC,other,45.53
+India,Greater Mumbai,LMC,unaccounted_for,0.47
+India,Guwahati,LMC,compost,8.2
+India,Guwahati,LMC,open_dump,75
+India,Guwahati,LMC,unaccounted_for,16.8
+India,GwaliorÂ ,LMC,compost,39.5
+India,GwaliorÂ ,LMC,open_dump,60
+India,GwaliorÂ ,LMC,unaccounted_for,0.5
+India,Bhubaneswar,LMC,open_dump,100
+India,Mysore,LMC,compost,50
+India,Mysore,LMC,controlled_landfill,31
+India,Mysore,LMC,recycling,22
+India,Mysore,LMC,unaccounted_for,17
+India,Warangal,LMC,anaerobic_digestion,2
+India,Warangal,LMC,compost,3.66
+India,Warangal,LMC,open_dump,93
+India,Warangal,LMC,recycling,1.66
+Ireland,Dublin,HIC,recycling,49
+Ireland,Dublin,HIC,unaccounted_for,51
+"Iran, Islamic Rep.",Tehran,UMC,anaerobic_digestion,1.9
+"Iran, Islamic Rep.",Tehran,UMC,compost,50
+"Iran, Islamic Rep.",Tehran,UMC,incineration,2.5
+"Iran, Islamic Rep.",Tehran,UMC,open_dump,41.5
+"Iran, Islamic Rep.",Tehran,UMC,recycling,4
+"Iran, Islamic Rep.",Tehran,UMC,unaccounted_for,0.1
+Iraq,Baghdad,UMC,open_dump,100
+Israel,Jerusalem,HIC,recycling,5
+Israel,Jerusalem,HIC,unaccounted_for,95
+Israel,Tel Aviv,HIC,recycling,10.6
+Israel,Tel Aviv,HIC,unaccounted_for,89.4
+Italy,Parma,HIC,recycling,72
+Italy,Parma,HIC,unaccounted_for,28
+Italy,Milano,HIC,incineration,44.6
+Italy,Milano,HIC,other,6.8
+Italy,Milano,HIC,recycling,49.9
+Jordan,Amman,UMC,open_dump,10
+Jordan,Amman,UMC,sanitary_landfill_landfill_gas_system,90
+Japan,Yokohama,HIC,controlled_landfill,10.18
+Japan,Yokohama,HIC,incineration,74.95
+Japan,Yokohama,HIC,recycling,25.543
+Japan,Kobe,HIC,controlled_landfill,14.35
+Japan,Kobe,HIC,incineration,83.3
+Japan,Kobe,HIC,recycling,14.89
+Japan,Osaka,HIC,controlled_landfill,14.19
+Japan,Osaka,HIC,incineration,90.33
+Japan,Osaka,HIC,recycling,9.67
+Japan,Naha,HIC,anaerobic_digestion,0
+Japan,Naha,HIC,compost,0
+Japan,Naha,HIC,controlled_landfill,3.82
+Japan,Naha,HIC,incineration,89.09
+Japan,Naha,HIC,other,0
+Japan,Naha,HIC,recycling,15.01
+Japan,Naha,HIC,unaccounted_for,0
+Japan,Kitakyushu,HIC,controlled_landfill,11.35
+Japan,Kitakyushu,HIC,incineration,75.93
+Japan,Kitakyushu,HIC,recycling,25.38
+Japan,Toyama,HIC,compost,0.44
+Japan,Toyama,HIC,controlled_landfill,7.94
+Japan,Toyama,HIC,incineration,76.16
+Japan,Toyama,HIC,recycling,24.28
+Kazakhstan,Atyrau,UMC,open_dump,100
+Kazakhstan,Kostanay,UMC,unaccounted_for,26
+Kenya,EldoretÂ ,LMC,open_dump,100
+Kenya,Nairobi,LMC,open_dump,33
+Kenya,Nairobi,LMC,recycling,5
+Kenya,Nairobi,LMC,unaccounted_for,62
+Kyrgyz Republic,Osh,LMC,open_dump,100
+Kyrgyz Republic,Bishkek,LMC,recycling,1
+Cambodia,Phnom Penh,LMC,compost,0.15
+Cambodia,Phnom Penh,LMC,unaccounted_for,99.85
+Kiribati,South Tarawa,LMC,landfill_unspecified,26
+Kiribati,South Tarawa,LMC,other,38
+Kiribati,South Tarawa,LMC,recycling,1
+Kiribati,South Tarawa,LMC,waterways_marine,35
+"Korea, Rep.",Seoul,HIC,compost,29
+"Korea, Rep.",Seoul,HIC,incineration,8
+"Korea, Rep.",Seoul,HIC,recycling,36
+"Korea, Rep.",Seoul,HIC,sanitary_landfill_landfill_gas_system,27
+Kuwait,Kuwait City,HIC,open_dump,100
+Kuwait,Kuwait City,HIC,unaccounted_for,0.01
+Lao PDR,Vientiane,LMC,controlled_landfill,50
+Lao PDR,Vientiane,LMC,recycling,10
+Lao PDR,Vientiane,LMC,unaccounted_for,40
+Lebanon,Beirut,UMC,compost,10
+Lebanon,Beirut,UMC,other,2
+Lebanon,Beirut,UMC,recycling,5
+Lebanon,Beirut,UMC,sanitary_landfill_landfill_gas_system,83
+Lebanon,Saida,UMC,anaerobic_digestion,50
+Lebanon,Saida,UMC,compost,10
+Lebanon,Saida,UMC,other,7
+Lebanon,Saida,UMC,recycling,20
+Lebanon,Saida,UMC,waterways_marine,13
+Sri Lanka,Dehiwala Mt. Lavinia Municipal Council,LMC,compost,0.5
+Sri Lanka,Dehiwala Mt. Lavinia Municipal Council,LMC,open_dump,92.2
+Sri Lanka,Dehiwala Mt. Lavinia Municipal Council,LMC,recycling,3.4
+Sri Lanka,Dehiwala Mt. Lavinia Municipal Council,LMC,unaccounted_for,3.9
+Sri Lanka,Kurunegala,LMC,compost,2.7
+Sri Lanka,Kurunegala,LMC,open_dump,80.4
+Sri Lanka,Kurunegala,LMC,other,2.7
+Sri Lanka,Kurunegala,LMC,recycling,14.2
+Sri Lanka,Trincomalee,LMC,compost,5.6
+Sri Lanka,Trincomalee,LMC,open_dump,61.5
+Sri Lanka,Trincomalee,LMC,other,28.7
+Sri Lanka,Trincomalee,LMC,recycling,4.1
+Sri Lanka,Trincomalee,LMC,unaccounted_for,0.1
+Sri Lanka,Jaffna,LMC,compost,5.9
+Sri Lanka,Jaffna,LMC,open_dump,70.3
+Sri Lanka,Jaffna,LMC,other,13.6
+Sri Lanka,Jaffna,LMC,recycling,10.4
+Sri Lanka,Jaffna,LMC,unaccounted_for,0
+Sri Lanka,Moratuwa,LMC,compost,14.2
+Sri Lanka,Moratuwa,LMC,controlled_landfill,48.6
+Sri Lanka,Moratuwa,LMC,other,12.9
+Sri Lanka,Moratuwa,LMC,recycling,3.1
+Sri Lanka,Moratuwa,LMC,unaccounted_for,21.2
+Sri Lanka,Colombo,LMC,compost,0.97
+Sri Lanka,Colombo,LMC,open_dump,99
+Sri Lanka,Colombo,LMC,unaccounted_for,0.03
+Lithuania,Vilnius,HIC,controlled_landfill,64
+Lithuania,Vilnius,HIC,recycling,36
+Lithuania,Kaunas,HIC,controlled_landfill,87
+Lithuania,Kaunas,HIC,recycling,13
+Morocco,Rabat,LMC,recycling,3
+Morocco,Rabat,LMC,sanitary_landfill_landfill_gas_system,97
+Morocco,Tangier,LMC,open_dump,100
+Maldives,Male,UMC,open_dump,100
+Maldives,Addu,UMC,open_dump,100
+Maldives,Fuahmulah,UMC,open_dump,100
+Mexico,MÃ©xico City,UMC,compost,10.6
+Mexico,MÃ©xico City,UMC,controlled_landfill,66.7
+Mexico,MÃ©xico City,UMC,other,4.2
+Mexico,MÃ©xico City,UMC,recycling,14.19
+Mexico,MÃ©xico City,UMC,sanitary_landfill_landfill_gas_system,1.56
+Mexico,MÃ©xico City,UMC,unaccounted_for,2.75
+Mexico,Guadalajara,UMC,recycling,8
+Mexico,Guadalajara,UMC,sanitary_landfill_landfill_gas_system,92
+Mexico,Monterrey,UMC,sanitary_landfill_landfill_gas_system,100
+"Macedonia, FYR",Skopje,UMC,controlled_landfill,95
+"Macedonia, FYR",Skopje,UMC,open_dump,2
+"Macedonia, FYR",Skopje,UMC,recycling,3
+Mali,Bamako,LIC,recycling,21
+Mali,Sikasso,LIC,landfill_unspecified,25
+Mali,Sikasso,LIC,unaccounted_for,75
+Myanmar,Mandalay,LMC,recycling,5
+Myanmar,Yangon,LMC,open_dump,87.66
+Myanmar,Yangon,LMC,recycling,4.33
+Myanmar,Yangon,LMC,unaccounted_for,7.67
+Montenegro,Podgorica,UMC,sanitary_landfill_landfill_gas_system,69.79
+Montenegro,Podgorica,UMC,unaccounted_for,30.21
+Montenegro,Kotor,UMC,controlled_landfill,59.98
+Montenegro,Kotor,UMC,unaccounted_for,40.02
+Mongolia,Ulaanbaatar,LMC,open_dump,88.85
+Mongolia,Ulaanbaatar,LMC,recycling,3.2
+Mongolia,Ulaanbaatar,LMC,unaccounted_for,7.95
+Mozambique,Maputo,LIC,open_dump,99
+Mozambique,Maputo,LIC,recycling,1
+Malawi,Blantyre,LIC,unaccounted_for,70
+Malawi,Lilongwe,LIC,unaccounted_for,70
+Malaysia,Kuala Lumpur,UMC,recycling,10.4
+Malaysia,Kuala Lumpur,UMC,unaccounted_for,89.6
+Niger,Niamey,LIC,open_dump,37.4
+Niger,Niamey,LIC,other,52.5
+Niger,Niamey,LIC,unaccounted_for,10.1
+Nigeria,Ibadan,LMC,open_dump,44
+Nigeria,Ibadan,LMC,unaccounted_for,56
+Nicaragua,Puerto Cabezas,LMC,landfill_unspecified,100
+Nicaragua,Managua,LMC,landfill_unspecified,87.61
+Nicaragua,Managua,LMC,recycling,8.95
+Nicaragua,Managua,LMC,unaccounted_for,3.44
+Netherlands,Amsterdam,HIC,recycling,14
+Netherlands,Amsterdam,HIC,unaccounted_for,86
+Norway,Bergen,HIC,incineration,39.1
+Norway,Bergen,HIC,landfill_unspecified,14.5
+Norway,Bergen,HIC,recycling,46.4
+Norway,Oslo,HIC,incineration,57.85
+Norway,Oslo,HIC,other,1.547
+Norway,Oslo,HIC,recycling,37.197
+Norway,Oslo,HIC,sanitary_landfill_landfill_gas_system,3.4
+Norway,Oslo,HIC,unaccounted_for,0.006
+Nepal,Butwal,LIC,other,62.7
+Nepal,Butwal,LIC,unaccounted_for,37.3
+Nepal,Pokhara,LIC,sanitary_landfill_landfill_gas_system,42.7
+Nepal,Pokhara,LIC,unaccounted_for,57.3
+Nepal,Dhankuta,LIC,sanitary_landfill_landfill_gas_system,81.1
+Nepal,Dhankuta,LIC,unaccounted_for,18.9
+Nepal,Birgunj,LIC,open_dump,19.65
+Nepal,Birgunj,LIC,other,19.65
+Nepal,Birgunj,LIC,unaccounted_for,60.7
+Nepal,Kathmandu,LIC,sanitary_landfill_landfill_gas_system,86.9
+Nepal,Kathmandu,LIC,unaccounted_for,13.1
+Nepal,Lalitpur,LIC,sanitary_landfill_landfill_gas_system,71.2
+Nepal,Lalitpur,LIC,unaccounted_for,28.8
+Nepal,Badimalika,LIC,open_dump,100
+Nepal,Bharatpur,LIC,open_dump,25.4
+Nepal,Bharatpur,LIC,unaccounted_for,74.6
+Nepal,Dharan,LIC,other,68.7
+Nepal,Dharan,LIC,unaccounted_for,31.3
+Nepal,Biratnagar,LIC,open_dump,85.7
+Nepal,Biratnagar,LIC,unaccounted_for,14.3
+Nepal,Bhaktapur,LIC,open_dump,86.5
+Nepal,Bhaktapur,LIC,unaccounted_for,13.5
+New Zealand,Auckland,HIC,unaccounted_for,84
+New Zealand,Wellington,HIC,compost,1
+New Zealand,Wellington,HIC,landfill_unspecified,88
+New Zealand,Wellington,HIC,recycling,10
+New Zealand,Wellington,HIC,unaccounted_for,1
+Pakistan,Karachi,LMC,controlled_landfill,60
+Pakistan,Karachi,LMC,other,40
+Pakistan,Lahore,LMC,controlled_landfill,61.53
+Pakistan,Lahore,LMC,incineration,6.15
+Pakistan,Lahore,LMC,sanitary_landfill_landfill_gas_system,32.31
+Pakistan,Lahore,LMC,unaccounted_for,0.01
+Pakistan,Sialkot,LMC,open_dump,25
+Pakistan,Sialkot,LMC,unaccounted_for,75
+Panama,PanamÃ¡ City,HIC,recycling,2
+Panama,PanamÃ¡ City,HIC,sanitary_landfill_landfill_gas_system,65
+Panama,PanamÃ¡ City,HIC,unaccounted_for,33
+Panama,San Miguelito,HIC,sanitary_landfill_landfill_gas_system,97.5
+Panama,San Miguelito,HIC,unaccounted_for,2.5
+Panama,ColÃ³n,HIC,open_dump,74
+Panama,ColÃ³n,HIC,unaccounted_for,26
+Peru,Cusco,UMC,open_dump,69.6
+Peru,Cusco,UMC,recycling,0.3
+Peru,Cusco,UMC,waterways_marine,30.1
+Philippines,Cebu,LMC,open_dump,60
+Philippines,Cebu,LMC,sanitary_landfill_landfill_gas_system,40
+Philippines,Quezon City,LMC,controlled_landfill,61
+Philippines,Quezon City,LMC,recycling,42
+Papua New Guinea,Port Moresby,LMC,controlled_landfill,61.56
+Papua New Guinea,Port Moresby,LMC,other,36.73
+Papua New Guinea,Port Moresby,LMC,recycling,1.7
+Papua New Guinea,Port Moresby,LMC,unaccounted_for,0.01
+Poland,KrakÃ³w,HIC,recycling,33
+Poland,KrakÃ³w,HIC,unaccounted_for,80.34
+Portugal,Lisbon,HIC,recycling,21.8
+Portugal,Lisbon,HIC,unaccounted_for,78.2
+Paraguay,AsunciÃ³n,UMC,open_dump,92.2
+Paraguay,AsunciÃ³n,UMC,unaccounted_for,7.8
+Paraguay,Ciudad Del Este,UMC,controlled_landfill,48.8
+Paraguay,Ciudad Del Este,UMC,unaccounted_for,51.2
+Paraguay,San Lorenzo,UMC,open_dump,58.2
+Paraguay,San Lorenzo,UMC,unaccounted_for,41.8
+Romania,Cluj-Napoca,UMC,recycling,13.72
+Romania,Bucharest,UMC,recycling,9.44
+Russian Federation,Moscow,UMC,open_dump,90
+Russian Federation,Moscow,UMC,other,6
+Russian Federation,Moscow,UMC,recycling,4
+Russian Federation,St.petersburg,UMC,landfill_unspecified,80
+Russian Federation,St.petersburg,UMC,other,3
+Russian Federation,St.petersburg,UMC,recycling,10
+Russian Federation,St.petersburg,UMC,unaccounted_for,7
+Russian Federation,Kemerovo,UMC,open_dump,98.1
+Russian Federation,Kemerovo,UMC,recycling,1.9
+Rwanda,KigaliÂ ,LIC,controlled_landfill,25
+Rwanda,KigaliÂ ,LIC,unaccounted_for,75
+Saudi Arabia,Riyadh,HIC,controlled_landfill,85
+Saudi Arabia,Riyadh,HIC,unaccounted_for,15
+Sierra Leone,Freetown,LIC,unaccounted_for,45
+El Salvador,San Salvador,LMC,sanitary_landfill_landfill_gas_system,65.4
+El Salvador,San Salvador,LMC,unaccounted_for,34.6
+Serbia,Novi Sad,UMC,recycling,2
+Serbia,Novi Sad,UMC,unaccounted_for,98
+Slovak Republic,Trnava,HIC,controlled_landfill,82.42
+Slovak Republic,Trnava,HIC,incineration,0.34
+Slovak Republic,Trnava,HIC,open_dump,0.56
+Slovak Republic,Trnava,HIC,other,6.9
+Slovak Republic,Trnava,HIC,recycling,9.79
+Slovak Republic,Bratislava,HIC,controlled_landfill,32.01
+Slovak Republic,Bratislava,HIC,incineration,41.02
+Slovak Republic,Bratislava,HIC,open_dump,0.43
+Slovak Republic,Bratislava,HIC,other,16.73
+Slovak Republic,Bratislava,HIC,recycling,9.81
+Slovenia,Ljubljana,HIC,landfill_unspecified,39
+Slovenia,Ljubljana,HIC,recycling,61
+Sweden,BorÃ¥s,HIC,controlled_landfill,1
+Sweden,BorÃ¥s,HIC,incineration,55
+Sweden,BorÃ¥s,HIC,other,15.5
+Sweden,BorÃ¥s,HIC,recycling,29
+Sweden,Stockholm,HIC,controlled_landfill,3
+Sweden,Stockholm,HIC,incineration,71.1
+Sweden,Stockholm,HIC,other,5
+Sweden,Stockholm,HIC,recycling,21
+Thailand,Bangkok,UMC,compost,48.7
+Thailand,Bangkok,UMC,recycling,11.85
+Thailand,Bangkok,UMC,sanitary_landfill_landfill_gas_system,39.45
+Tonga,Vavaâ€™u,UMC,compost,1.5
+Tonga,Vavaâ€™u,UMC,controlled_landfill,27.4
+Tonga,Vavaâ€™u,UMC,other,12.3
+Tonga,Vavaâ€™u,UMC,recycling,5.1
+Tonga,Vavaâ€™u,UMC,unaccounted_for,53.7
+Tunisia,Tunis,LMC,open_dump,4
+Tunisia,Tunis,LMC,recycling,3
+Tunisia,Tunis,LMC,sanitary_landfill_landfill_gas_system,93
+Tunisia,Sfax,LMC,recycling,2
+Tunisia,Sfax,LMC,sanitary_landfill_landfill_gas_system,98
+Tunisia,Sousse,LMC,controlled_landfill,63
+Tunisia,Sousse,LMC,recycling,6
+Turkey,Sakarya Mm,UMC,recycling,2.49
+Turkey,Sakarya Mm,UMC,unaccounted_for,97.51
+Tanzania,Dar Es Salaam,LIC,other,18
+Tanzania,Dar Es Salaam,LIC,recycling,13
+Tanzania,Dar Es Salaam,LIC,sanitary_landfill_landfill_gas_system,28
+Tanzania,Dar Es Salaam,LIC,unaccounted_for,41
+Tanzania,Moshi,LIC,compost,20
+Tanzania,Moshi,LIC,controlled_landfill,49
+Tanzania,Moshi,LIC,unaccounted_for,31
+Uganda,Kampala,LIC,controlled_landfill,100
+Ukraine,Kiev,LMC,incineration,23
+Ukraine,Kiev,LMC,landfill_unspecified,70.6
+Ukraine,Kiev,LMC,recycling,6.4
+Uruguay,Montevideo,HIC,controlled_landfill,71
+Uruguay,Montevideo,HIC,recycling,29
+United States,Seattle,HIC,controlled_landfill,41.95
+United States,Seattle,HIC,recycling,58.04
+United States,Washington Dc,HIC,advanced_thermal_treatment,32
+United States,Washington Dc,HIC,compost,1
+United States,Washington Dc,HIC,controlled_landfill,56
+United States,Washington Dc,HIC,recycling,11
+United States,Ann Arbor,HIC,recycling,31
+"Venezuela, RB",Caracas,UMC,recycling,0.9
+"Venezuela, RB",Caracas,UMC,sanitary_landfill_landfill_gas_system,99.1
+Vietnam,Hanoi,LMC,compost,2
+Vietnam,Hanoi,LMC,incineration,5.4
+Vietnam,Hanoi,LMC,landfill_unspecified,10.91
+Vietnam,Hanoi,LMC,recycling,8.2
+Vietnam,Hanoi,LMC,sanitary_landfill_landfill_gas_system,63.64
+Vietnam,Hanoi,LMC,unaccounted_for,10
+Vietnam,Ho Chi Minh City,LMC,compost,15
+Vietnam,Ho Chi Minh City,LMC,sanitary_landfill_landfill_gas_system,85
+Kosovo,Gjilan,LMC,landfill_unspecified,100
+Kosovo,Gjilan,LMC,recycling,0
+Kosovo,Pristina,LMC,controlled_landfill,80
+Kosovo,Pristina,LMC,open_dump,10
+Kosovo,Pristina,LMC,recycling,10
+"Yemen, Rep.",SanaÃ¡,LIC,controlled_landfill,53
+"Yemen, Rep.",SanaÃ¡,LIC,recycling,12
+"Yemen, Rep.",SanaÃ¡,LIC,unaccounted_for,30
+"Yemen, Rep.",SanaÃ¡,LIC,waterways_marine,5
+South Africa,JohannesburgÂ ,UMC,compost,5
+South Africa,JohannesburgÂ ,UMC,landfill_unspecified,95
+South Africa,BloemfonteinÂ ,UMC,controlled_landfill,32.3
+South Africa,BloemfonteinÂ ,UMC,unaccounted_for,67.7
+Zambia,Lusaka,LMC,controlled_landfill,26
+Zambia,Lusaka,LMC,recycling,6
+Zambia,Lusaka,LMC,unaccounted_for,68
+Zimbabwe,Mbare,LIC,compost,10
+Zimbabwe,Mbare,LIC,controlled_landfill,51
+Zimbabwe,Mbare,LIC,open_dump,24
+Zimbabwe,Mbare,LIC,other,15
